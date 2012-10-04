@@ -2,4 +2,4 @@ If you use the code in your projects, I appreciate much if you could cite the fo
 
 Y. Jia and T. Darrell. ``Heavy-tailed Distances for Gradient Based Image Descriptors''. NIPS 2011.
 
-Too busy to write a detailed readme... Please refer to the code for details.
+The code is obsolete now and is included in the new pipeline called jiayq_ice.
